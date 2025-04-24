@@ -1,4 +1,4 @@
-# Sales Insights Project Using MySQL
+# Sales Insights Project Using MySQL & Power BI
 This project involves performing data analysis on sales data using **MySQL**. The analysis includes data extraction, cleaning, transformation, and insights generation using SQL queries.
 ---
 ## Project Overview
